@@ -1,7 +1,7 @@
 # Management-tools-of-the-re-commerce-system-LoopOS
 _Thesis PDF Repository_
 
-##Abstract
+## Abstract
 
 Existing retail channels have been optimized to push items through the supply chain and deliver them to the customers. However, the rise of e-commerce and its associated benefits, such as easy returns and circular economy opportunities, have created a problem for retailers who have not adapted to this reverse flow. As a result, the process of recovering items from customers is often manual and inefficient.
 
