@@ -1,5 +1,5 @@
-# Management-tools-of-the-re-commerce-system-LoopOS
-_Thesis PDF Repository_
+# Thesis Repository
+Welcome to my Master's Thesis! This repository hosts the PDF document of my thesis, which explores my planning, development, implementation and testing of two applications in LoopOS, a circular economy framework developed by The Loop co.
 
 ## Abstract
 
@@ -10,3 +10,5 @@ The Loop co. is developing LoopOS, a circular economy framework, to solve this p
 This thesis explores the development process and implementation of two critical components within the LoopOS environment: LoopOS Onboarding, which focuses on simplifying the onboarding process for new users within the LoopOS platform while also automating their environment creation within LoopOS, and LoopOS UI, designed to standardize and enhance front-end development across various LoopOS applications. The former addresses challenges in asset pipelines and front-end development. It ensures seamless integration and modularity for LoopOS developers, enabling them to focus on core functionality rather than front-end complexities. The LoopOS UI significantly contributes to the modular architecture, providing a solid foundation for implementing a new user interface in LoopOS applications.
 
 In conclusion, this thesis achieves its stated objectives and showcases a comprehensive approach to software development, from planning and execution to innovation and future vision. The implemented solutions contribute to the ongoing development of the LoopOS platform, highlighting the adaptability, collaboration, and problem-solving skills crucial in a dynamic software development environment.
+
+If you have any questions or inquiries, please feel free to reach out.
